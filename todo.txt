@@ -1,0 +1,8 @@
+IDEAS to future updates:
+#UPDATE 31.08.2021
+- Add description to extension
+- Create autoinstall .bat or .exe
+- Add support for other browsers
+- Change README on github (important to add install section!)
+- Add point counter
+- Add extension to bar

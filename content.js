@@ -5,9 +5,9 @@ function myFunction() {
 }
 
 function getBonus(){
-    var isAvailable = document.getElementsByClassName('ScCoreButton-sc-1qn4ixc-0 ScCoreButtonSuccess-sc-1qn4ixc-5 jGqsfG irROim');
+    var isAvailable = document.getElementsByClassName('ScCoreButton-sc-1qn4ixc-0 ScCoreButtonSuccess-sc-1qn4ixc-5 boGviw iNPKuE');
     if (isAvailable.length > 0){
-        document.getElementsByClassName('ScCoreButton-sc-1qn4ixc-0 ScCoreButtonSuccess-sc-1qn4ixc-5 jGqsfG irROim')[0].click()
+        document.getElementsByClassName('ScCoreButton-sc-1qn4ixc-0 ScCoreButtonSuccess-sc-1qn4ixc-5 boGviw iNPKuE')[0].click()
         console.log("BONUS CLICKED");
     } else {
         console.log("BONUS HIDEN");
